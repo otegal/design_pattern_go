@@ -1,7 +1,9 @@
 package main
 
-import "design_pattern_go/iterator"
+import (
+	"design_pattern_go/iterator"
+)
 
 func main() {
-	iterator.Hello()
+	iterator.Execute()
 }
